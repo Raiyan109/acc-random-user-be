@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Jack",
+        "gender": "male",
+        "contact": "+88034347387",
+        "address": "USA",
+        "photoUrl": "https://i.ibb.co/hX27KnC/Woman-with-headlamp-and-biker.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Miles",
+        "gender": "male",
+        "contact": "+88034347387",
+        "address": "USA",
+        "photoUrl": "https://i.ibb.co/hX27KnC/Woman-with-headlamp-and-biker.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jenny",
+        "gender": "female",
+        "contact": "+88034347387",
+        "address": "USA",
+        "photoUrl": "https://i.ibb.co/hX27KnC/Woman-with-headlamp-and-biker.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Anna",
+        "gender": "female",
+        "contact": "+88034347387",
+        "address": "USA",
+        "photoUrl": "https://i.ibb.co/hX27KnC/Woman-with-headlamp-and-biker.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pam",
+        "gender": "female",
+        "contact": "+88034347387",
+        "address": "USA",
+        "photoUrl": "https://i.ibb.co/hX27KnC/Woman-with-headlamp-and-biker.jpg"
+    }
+]
