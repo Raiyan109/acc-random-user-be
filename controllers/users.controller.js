@@ -12,16 +12,18 @@ module.exports.getAllUsers = (req, res) => {
 
 // GET Random Users
 module.exports.getRandomUser = (req, res) => {
-    const user = Users.map(user => user.id)
 
-    const randomUserLength = Math.floor(Math.random() * user.toString().length)
+    const user = Users.map(user => user)
+    const random = Math.floor(Math.random() * 5)
+    console.log(user[random]);
+    const randomUser = user[random]
 
-    // const randomUser = Users.find()
+
 
     res.status(200).send({
         success: true,
         message: "Successfully random user shown",
-        data: randomUserLength
+        data: randomUser
     })
 }
 
